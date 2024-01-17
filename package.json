@@ -1,11 +1,11 @@
 {
     "name": "zennode",
     "version": "1.0.0",
-    "description": "",
+    "description": "Zennode assignment",
     "type": "module",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "start": "npm i && node index.js"
     },
     "keywords": [],
     "author": "Tosmim",
