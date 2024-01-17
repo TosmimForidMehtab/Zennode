@@ -12,4 +12,6 @@
 
 -   ### Go to the project folder
 -   ### Run the following command:
-    -   `npm run start`
+    -   ```node
+        npm run start
+        ```
