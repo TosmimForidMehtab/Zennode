@@ -11,7 +11,26 @@
     #### Download the zipped folder
 
 -   ### Go to the project folder
--   ### Run the following command:
-    -   ```node
+
+    ```sh
+        cd Zennode
+    ```
+
+-   ### For Javascript Code:
+    ```sh
+        cd Javascript
+    ```
+    ```node
         npm run start
-        ```
+    ```
+-   ### For Python Code:
+    ```sh
+        cd Python
+    ```
+    ```sh
+        python main.py
+    ```
+    #### _For linux based OS_
+    ```sh
+        python3 main.py
+    ```
